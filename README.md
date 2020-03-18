@@ -2,3 +2,6 @@
 
 
 This is my personal repository
+
+print ("hello world")
+print ("my name is Gaby")
